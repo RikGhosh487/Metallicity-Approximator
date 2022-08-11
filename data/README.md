@@ -12,4 +12,4 @@ The actual contents of the two datasets can be randomly shuffled by running the 
 ```
 >>> python data_shuffle.py
 ```
-you can alter the sizes of the training and validation data, by modifying the `TEST_RATIO` parameter in the [file](https://github.com/RikGhosh487/Metallicity/blob/main/data/data_shuffle.py).
+you can alter the sizes of the training and validation data, by modifying the `TEST_RATIO` parameter in the [file](https://github.com/RikGhosh487/Metallicity-Approximator/blob/main/data/data_shuffle.py).
